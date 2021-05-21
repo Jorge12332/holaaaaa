@@ -7,17 +7,17 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Pablo González
-    tagline: Assistant Professor at University of Oviedo
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Jorge Vales 
+    tagline:hola soy jorge y me gustas si tu el que esta leyendo esto ME GUSTAS
+    avatar: Hola si soy yo otra vez me gustas mucho porfa no bajes no quieres nada conmigo no te doy pena?
 
     # Sidebar links
-    email: gonzalezgpablo@uniovi.es
+    email: jorgevalvi0790@gmail.com
     phone:
     website:
     linkedin: p-gonzález-gonzález
-    github: pglez82
-    researchgate: Pablo_Gonzalez10
+    github: Jorge12332
+    researchgate: 
     gitlab:
     bitbucket:
     twitter:
@@ -29,7 +29,7 @@ sidebar:
       - idiom: Spanish
         level: Native
 
-      - idiom: English
+      - idiom: Espanish
         level: Professional, C1
 
     interests:
